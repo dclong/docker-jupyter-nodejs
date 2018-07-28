@@ -5,7 +5,7 @@ RUN apt-get update \
         nodejs npm \
     && ln -s /usr/bin/nodejs /usr/bin/node \
     && npm install -g n \
-    && n latest \
+    && n 8.11.3 \
     && apt-get autoremove \
     && apt-get autoclean
 
