@@ -1,6 +1,6 @@
 # [dclong/jupyter-nodejs](https://hub.docker.com/r/dclong/jupyter-nodejs/)
 
-Jupyter Notebook (based on Python 3) with NodeJS in Docker. 
+Jupyter Notebook (based on Python 3.6) with NodeJS in Docker. 
 
 ## Detailed Information 
 
