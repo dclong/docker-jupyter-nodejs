@@ -1,14 +1,19 @@
 # [dclong/jupyter-nodejs](https://hub.docker.com/r/dclong/jupyter-nodejs/)
 
-Jupyter Notebook (based on Python 3.6) with NodeJS in Docker. 
+Jupyter Notebook (with Python 3.5) with NodeJS in Docker. 
+**It is recommended that you use the image
+[dclong/jupyterhub-ds](https://hub.docker.com/r/dclong/jupyterhub-ds/)
+for data science related work.**
 
 ## Detailed Information 
 
-OS: Ubuntu 16.04
+OS: Ubuntu 16.04  
 Desktop Environment: None  
 Remote Desktop: None  
-Kernels: Python 3.6 (with popular packages)  
-Additional: NodeJS 8.11.3
+Jupyter Notebook: 5.6.0  
+NodeJS: 8.11.3
+Jupyter Kernels:  
+- Python 3.5.2 
 
 ## Usage in Linux/Unix
 
