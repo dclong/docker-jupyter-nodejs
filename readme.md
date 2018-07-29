@@ -8,7 +8,7 @@ OS: Ubuntu 16.04
 Desktop Environment: None  
 Remote Desktop: None  
 Kernels: Python 3 (with popular packages)  
-Additional: NodeJS
+Additional: NodeJS 8.11.3
 
 ## Usage in Linux/Unix
 
