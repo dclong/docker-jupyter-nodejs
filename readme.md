@@ -7,7 +7,7 @@ Jupyter Notebook (based on Python 3) with NodeJS in Docker.
 OS: Ubuntu 16.04
 Desktop Environment: None  
 Remote Desktop: None  
-Kernels: Python 3 (with popular packages)  
+Kernels: Python 3.6 (with popular packages)  
 Additional: NodeJS 8.11.3
 
 ## Usage in Linux/Unix
