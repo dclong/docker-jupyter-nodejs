@@ -1,4 +1,4 @@
-FROM dclong/jupyter:18.04
+FROM dclong/jupyter
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
