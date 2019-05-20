@@ -6,5 +6,5 @@ RUN apt-get update \
     && npm install -g n \
     && n 10.15.3 \
     && apt-get autoremove \
-    && apt-get autoclean
+    && apt-get clean
 
