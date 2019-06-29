@@ -1,4 +1,4 @@
-# [dclong/jupyter-nodejs](https://hub.docker.com/r/dclong/jupyter-nodejs/)
+# dclong/jupyter-nodejs [@DockerHub](https://hub.docker.com/r/dclong/jupyter-nodejs/) | [@GitHub](https://github.com/dclong/docker-jupyter-nodejs)
 
 Jupyter Notebook with NodeJS in Docker. 
 **It is recommended that you use the image
