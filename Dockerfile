@@ -1,4 +1,6 @@
+# NAME: dclong/jupyter-nodejs
 FROM dclong/jupyter
+# GIT: https://github.com/dclong/docker-jupyter.git
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
